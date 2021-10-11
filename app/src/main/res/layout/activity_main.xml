@@ -79,7 +79,14 @@
         android:id="@+id/calcBtn"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:onClick="onConvert()"
+        android:onClick="onConvert"
         android:text="Calculate" />
+
+    <Button
+        android:id="@+id/btClear"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onClear"
+        android:text="Clear" />
 
 </LinearLayout>

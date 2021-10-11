@@ -3,4 +3,6 @@
     <string name="kelvin">Kelvin</string>
     <string name="fahrenheit">Fahrenheit</string>
     <string name="celsius">Celsius</string>
+    <string name="input">%1$.2f</string>
+
 </resources>
