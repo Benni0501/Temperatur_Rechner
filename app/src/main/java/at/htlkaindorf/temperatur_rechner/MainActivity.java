@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void onConvert(){
         if(celsius.getText().length() > 0 && kelvin.getText().length() == 0 && fahrenheit.getText().length() == 0){
-            float celsius = Float.parseFloat(celsius.getText().toString());
+            //float celsius = Float.parseFloat(celsius.getText().toString());
             // + 273,15
         } else if(celsius.getText().length() == 0 && kelvin.getText().length() > 0 && fahrenheit.getText().length() == 0){
 
