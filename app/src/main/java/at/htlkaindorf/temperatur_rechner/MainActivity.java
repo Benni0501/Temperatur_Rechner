@@ -18,7 +18,9 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        //test
+        celsius = findViewById(R.id.celsiusInput);
+        kelvin = findViewById(R.id.kelvinInput);
+        fahrenheit = findViewById(R.id.fahrenheitInput);
 
 
     }
