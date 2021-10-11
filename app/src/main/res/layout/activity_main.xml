@@ -82,4 +82,11 @@
         android:onClick="onConvert()"
         android:text="Calculate" />
 
+    <Button
+        android:id="@+id/clearBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onClear"
+        android:text="Clear Input" />
+
 </LinearLayout>
