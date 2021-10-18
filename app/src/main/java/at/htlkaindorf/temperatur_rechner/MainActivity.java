@@ -13,7 +13,6 @@ public class MainActivity extends AppCompatActivity {
     private EditText celsius;
     private EditText kelvin;
     private EditText fahrenheit;
-    private Button btconvert;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
