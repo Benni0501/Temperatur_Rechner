@@ -1,8 +1,8 @@
 <resources>
-    <string name="app_name">Temperatur_Rechner</string>
-    <string name="kelvin">Kelvin</string>
-    <string name="fahrenheit">Fahrenheit</string>
-    <string name="celsius">Celsius</string>
-    <string name="input">%1$.2f</string>
+    <string name="app_name" translatable="false">Temperatur_Rechner</string>
+    <string name="kelvin" translatable="false">Kelvin</string>
+    <string name="fahrenheit" translatable="false">Fahrenheit</string>
+    <string name="celsius" translatable="false">Celsius</string>
+    <string name="input" translatable="false">%1$.2f</string>
 
 </resources>
