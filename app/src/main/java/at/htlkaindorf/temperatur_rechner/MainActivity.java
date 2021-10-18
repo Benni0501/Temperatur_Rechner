@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity {
             celsius.setText(getString(R.string.input, celsius_help));
             kelvin.setText(getString(R.string.input, kelvin_help));
         } else {
-            Toast.makeText(getApplicationContext(), "Mach das bitte net", Toast.LENGTH_LONG).show();
+            Toast.makeText(getApplicationContext(), "Bitte nur eine Zeile ausfüllen", Toast.LENGTH_LONG).show();
         }
     }
 
